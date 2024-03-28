@@ -28,6 +28,16 @@ Para iniciar la aplicación en modo de desarrollo:
 - **Emulador/Simulador**: Haz clic en "Run on iOS simulator" o "Run on Android emulator" desde la interfaz del Metro Bundler.
 - **Dispositivo Móvil**: Escanea el código QR con la cámara de tu dispositivo (iOS) o la app de Expo (Android).
 
+## Instalación del APK
+
+Para usuarios de Android, puedes instalar directamente la aplicación usando el archivo APK proporcionado:
+
+- Encuentra el archivo `application-64ff4dd2-44bc-46ef-8c0a-f405811fa0e6.apk` en el directorio raíz del proyecto.
+- Transfiere el APK a tu dispositivo Android.
+- En tu dispositivo, utiliza un administrador de archivos para navegar hasta el archivo APK.
+- Toca en el APK y sigue las instrucciones en pantalla para instalar.
+- Asegúrate de haber habilitado la instalación de aplicaciones de fuentes desconocidas en la configuración de seguridad de tu dispositivo Android.
+
 ## Estructura del Proyecto
 
 El proyecto está organizado de la siguiente manera:
